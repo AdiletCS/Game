@@ -1,0 +1,31 @@
+body{
+  background-color: #191970;
+}
+.container{
+  width: 50%;
+  height: 50%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+
+  background-color: white;
+  text-align: center;
+  box-shadow: 0 0 10px 5px;
+  border-radius: 20px;
+}
+p{
+  font-size: 27px;
+}
+#You{
+  color: #006400;
+}
+#Computer{
+  color: red;
+}
+#Output{
+  font-weight:  bold;
+}
+button{
+  font-size: 20px;
+}
